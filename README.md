@@ -105,11 +105,11 @@
 <a href="https://aliyevom.github.io/dev/" target="_blank">
 <img src=https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white alt=Website style="margin-bottom: 5px;" />
 </a>  
-  </div>
+  
 
   ## Hawkincloud
 
-<div align="center">
+
   <a href="https://hawkincloud.github.io/dev/">
     <img height="100" src="https://hawkincloud.github.io/dev/src/front/img/logo.png" alt="Hawkincloud Logo" />
   </a>
