@@ -107,16 +107,12 @@
 </a>  
   </div>
 
-  <h1 align="center"><a href="https://hawkincloud.github.io/dev/">Hawkincloud</a></h1>
+  ## Hawkincloud
 
 <div align="center">
   <a href="https://hawkincloud.github.io/dev/">
     <img height="100" src="https://hawkincloud.github.io/dev/src/front/img/logo.png" alt="Hawkincloud Logo" />
   </a>
 </div>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/aliyevom/aliyevom/output/snake.svg" alt="Snake animation" />
 
 
