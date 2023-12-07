@@ -8,23 +8,8 @@
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 </div>  
-  
+  Experienced Information Security, Software Engineer, and DevOps Engineer with a proven track record in diverse industries. Proficient in C++, Python, Java, Angular 13 and 14, .NET, MySQL, Node.js, GitLab with integration, PostgreSQL, GNU/Linux, Windows Server, Penetration Testing, Linux System Administration, System Administration, Scripting, Automation, Docker, Kubernetes, as well as Azure, Google Cloud, and AWS services. Skilled in CI/CD pipeline setup and adept at report development. Adheres to the Agile methodology, ensuring a collaborative and iterative approach to software development and project management.
 
-- 🚀 DevOps & Kubernetes Expertise: As a Certified Kubernetes Administrator (CKA), I wield a deep understanding of containerization, orchestration, and microservices architecture. By architecting and managing Kubernetes clusters, I empower applications to scale effortlessly and maintain impeccable availability.
-  
-  
-
-- 🛠️ AWS DevOps Mastery: Holding the title of an AWS Certified DevOps Engineer, I specialize in harnessing Amazon Web Services to engineer seamless CI/CD pipelines, optimize infrastructure, and automate deployment workflows. My proficiency spans a diverse array of AWS services, including AWS CodeDeploy, AWS CodeCommit, AWS Lambda, and more.
-  
-  
-
-- ⚙️ Node.js Services Developer: With a certification as an OpenJS Node.js Services Developer (JSNSD), I embrace the power of Node.js to craft lightning-fast, scalable, and event-driven applications. Leveraging Node.js, I engineer real-time communication, robust APIs, and dynamic user experiences.
-  
-  
-
-- 🐍 Python Enthusiast: My fluency in Python serves as a cornerstone for automation, scripting, and building versatile tools. From creating efficient backend services to orchestrating complex workflows, Python is my go-to language for driving innovation and efficiency.
-  
-  
 
 <br/>  
 
