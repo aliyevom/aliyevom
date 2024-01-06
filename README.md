@@ -2,12 +2,6 @@
 <img src="https://media.giphy.com/media/2JwNzsy9KBqgiZKJ2F/giphy-downsized.gif" align="center" height="" width="" />
 </div>  
   
-
-<div align="center">
-
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-
-</div>  
   Experienced Information Security, Software Engineer, and DevOps Engineer with a proven track record in diverse industries. Proficient in C++, Python, Java, Angular 13 and 14, .NET, MySQL, Node.js, GitLab with integration, PostgreSQL, GNU/Linux, Windows Server, Penetration Testing, Linux System Administration, System Administration, Scripting, Automation, Docker, Kubernetes, as well as Azure, Google Cloud, and AWS services. Skilled in CI/CD pipeline setup and adept at report development. Adheres to the Agile methodology, ensuring a collaborative and iterative approach to software development and project management.
 
 
